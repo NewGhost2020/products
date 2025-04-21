@@ -1,0 +1,274 @@
+<?xml version='1.0' encoding='utf-8'?>
+<yml_catalog date="2025-04-15 18:56">
+	<shop>
+		<name>Магазин</name>
+		<company>Star Store</company>
+		<currencies>
+			<currency id="RUR" rate="1" />
+		</currencies>
+		<categories>
+			<category id="1">телефоны</category>
+			<category id="2">видеокарты</category>
+			<category id="3">игровые приставки</category>
+			<category id="4">умные часы и браслеты</category>
+		</categories>
+		<offers>
+			<offer id="1" available="true">
+				<name>iPhone 15 Plus 256 Гб Black</name>
+				<price>158575</price>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-x/6957224313.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-j/6957224299.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-w/6957224348.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-6/6957224286.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-h/6957224225.jpg</picture>
+				<description><![CDATA[iPhone 15 Plus получил корпус со скругленными краями и матовым покрытием. У смартфона 6,7-дюймовый OLED-дисплей с пиковой яркостью 2000 нит. Вместо челки в верхней части дисплея овальный разрез Dynamic Island.
+Тыльная камера двойная, с диагональным расположением датчиков. Главный сенсор 48-мегапиксельный, ширик 12-мегапиксельный с возможностью съемки с 2-кратным приближением без потери качества. Фронтальная камера 12-мегапиксельная. iPhone 15 Plus умеет снимать видео в 4K при 60 fps. Есть специальный кинематографический режим съемки.
+Аппаратная основа унаследована от iPhone 14 Pro и iPhone 14 Pro Max. Это чипсет A16 Bionic. Энергоэффективность в сравнении с iPhone 14 выросла. Объем оперативной памяти равен 6 ГБ.
+Емкость батареи iPhone 15 Plus составляет 4912 мАч. Apple гарантирует беспроблемную работу в течение дня. Еще одно важное нововведение — порт USB-C, который заменил Lightning.
+iPhone 15 Plus умеет связываться со спутником и посылать сигнал SOS. Внутри чип U2, повышающий точность геолокации. Apple также оснастила смартфон шумодавом последнего поколения, который работает при разговорах.]]></description>
+				<categoryId>1</categoryId>
+				<vendor>Apple</vendor>
+				<weight>0.3</weight>
+				<vendorCode>1004</vendorCode>
+				<oldprice>184800.0</oldprice>
+				<barcode>OZN1477492496</barcode>
+				<country_of_origin>Китай</country_of_origin>
+				<dimensions>10/10/10</dimensions>
+				<currencyId>RUR</currencyId>
+				<count>100</count>
+				<vat>VAT_5</vat>
+			</offer>
+			<offer id="2" available="true">
+				<name>iPhone 15 128GB Black</name>
+				<price>106376</price>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-x/6957224313.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-g/6957224476.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-d/6957224473.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-j/6957224263.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-8/6957223964.jpg</picture>
+				<description><![CDATA[Смартфон Apple iPhone 15 128GB – красивое сочетание передовой оптики, мощного процессора, долгоиграющей батареи и запоминающегося дизайна.Стильный:- Минимальные рамки на передней панели, увеличивающие полезную площадь экрана.- Скругленные боковые грани для удобного и надежного удержания в руке.- Привычный квадратный блок камер на задней панели. Мощный:- Процессор A16 Bionic для запуска любых мобильных игр на «максималках» и выполнения повседневных задач.- Интеллектуальная система шумоподавления для четкой голосовой связи.- Долгая работа от одного заряда батареи.Яркий:- OLED-дисплей с высокой четкостью и точностью цветопередачи.- Стекло с покрытием Ceramic Shield для защиты от механических повреждений.- Пиковая яркость дисплея для комфортного использования на улице под солнечными лучами.Четкий:- Основная камера с разрешением 48 Мп и возможностью съемки видео в разрешении 4K.- Технология Smart HDR для максимально реалистичного отображения цветов и оттенков.- Сверхширокоугольная камера для захвата всех деталей.- Фронтальная камера с разрешением 12 Мп и поддержкой технологии TrueDepth.Надежный:- Энергоемкий аккумулятор для до 20 часов непрерывной работы при просмотре видео.- Быстрая зарядка и передача данных через разъем USB Type-C.- Защита от пыли и влаги по стандарту IP68.]]></description>
+				<categoryId>1</categoryId>
+				<vendor>Apple</vendor>
+				<weight>0.3</weight>
+				<vendorCode>1005</vendorCode>
+				<oldprice>138600.0</oldprice>
+				<barcode>OZN1477493148</barcode>
+				<country_of_origin>Китай</country_of_origin>
+				<dimensions>10/10/10</dimensions>
+				<currencyId>RUR</currencyId>
+				<count>100</count>
+				<vat>VAT_5</vat>
+			</offer>
+			<offer id="3" available="true">
+				<name>iPhone 15 Plus 256 Гб Blue</name>
+				<price>176195</price>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-u/6957224130.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-f/6957224295.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-g/6957224296.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-0/6957224316.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-h/6957224225.jpg</picture>
+				<description><![CDATA[iPhone 15 Plus получил корпус со скругленными краями и матовым покрытием. У смартфона 6,7-дюймовый OLED-дисплей с пиковой яркостью 2000 нит. Вместо челки в верхней части дисплея овальный разрез Dynamic Island.
+Тыльная камера двойная, с диагональным расположением датчиков. Главный сенсор 48-мегапиксельный, ширик 12-мегапиксельный с возможностью съемки с 2-кратным приближением без потери качества. Фронтальная камера 12-мегапиксельная. iPhone 15 Plus умеет снимать видео в 4K при 60 fps. Есть специальный кинематографический режим съемки.
+Аппаратная основа унаследована от iPhone 14 Pro и iPhone 14 Pro Max. Это чипсет A16 Bionic. Энергоэффективность в сравнении с iPhone 14 выросла. Объем оперативной памяти равен 6 ГБ.
+Емкость батареи iPhone 15 Plus составляет 4912 мАч. Apple гарантирует беспроблемную работу в течение дня. Еще одно важное нововведение — порт USB-C, который заменил Lightning.
+iPhone 15 Plus умеет связываться со спутником и посылать сигнал SOS. Внутри чип U2, повышающий точность геолокации. Apple также оснастила смартфон шумодавом последнего поколения, который работает при разговорах.]]></description>
+				<categoryId>1</categoryId>
+				<vendor>Apple</vendor>
+				<weight>0.3</weight>
+				<vendorCode>1006</vendorCode>
+				<barcode>OZN1477493283</barcode>
+				<country_of_origin>Китай</country_of_origin>
+				<dimensions>10/10/10</dimensions>
+				<currencyId>RUR</currencyId>
+				<count>100</count>
+				<vat>VAT_5</vat>
+			</offer>
+			<offer id="4" available="true">
+				<name>iPhone 15 Pro 128 ГБ Blue</name>
+				<price>150381</price>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-9/6957224397.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-i/6957224298.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-g/6957224332.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-x/6957224349.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-c/6957224112.jpg</picture>
+				<description><![CDATA[Аппаратной основой Apple iPhone 15 Pro стал 3-нанометровый чипсет A17 Pro с 6-ядерным GPU и поддержкой трассировки лучей. Чип выдает высочайшую производительность в играх. Также имеется 16-ядерный Neural Engine, который обрабатывает 35 миллионов операций в секунду.
+Корпус смартфона изготовлен из титана 5-го класса (такой, например, используется в космическом ровере NASA). Титан прочнее, легче и долговечнее, чем алюминий и сталь. У iPhone 15 Pro нет физического переключателя для перехода в бесшумный режим. На его месте расположена программируемая кнопка, которая реагирует на силу нажатия. С ее помощью можно, например, включить камеру или фонарик.
+У iPhone 15 Pro 6,1-дюймовый OLED-дисплей с разрешением 2556 × 1179 пикселей, кадровой частотой 120 Гц и пиковой яркостью 2000 нит.
+Основная камера состоит из трех сенсоров. Главный на 48 Мп. Пользователь может выбрать фокусное расстояние — 24, 28 или 35 мм. Также у смартфона ширик и телевик с 3-кратным оптическим зумом на 12 Мп.
+iPhone 15 Pro получил порт USB-C с поддержкой USB 3 и скоростью передачи данных до 10 Гбит/с. Операционная система — iOS 17.]]></description>                  
+				<categoryId>1</categoryId>                                                    
+				<vendor>Apple</vendor>
+				<weight>0.3</weight>
+				<vendorCode>1007</vendorCode>
+				<oldprice>190575.0</oldprice>
+				<barcode>OZN1477493366</barcode>
+				<country_of_origin>Китай</country_of_origin>
+				<dimensions>10/10/10</dimensions>
+				<currencyId>RUR</currencyId>
+				<count>100</count>
+				<vat>VAT_5</vat>
+			</offer>
+			<offer id="63" available="true">
+				<name>Смарт-часы Apple Watch Series 9 45mm Midnight Aluminium Sport Band (S/M)</name>
+				<price>64996</price>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-w/7054260044.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-1/7054260049.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-0/7054260048.jpg</picture>
+				<description><![CDATA[Смарт-часы Apple Watch Series 9 45 мм Midnight Aluminium Sport Band оснащены сенсорным экраном Retina LTPO OLED, обладающий высокой яркостью 2000 нит, что позволяет легко считывать информацию даже под солнечными лучами. Корпус изготовлен из алюминия и защищен от проникновения влаги — выдерживает погружение под воду на глубину до 50 м. Новый чип S9 с 5,6 млрд транзисторов обеспечивает стабильную работу, быстрый отклик и поддержку двойного касания: чтобы принять входящий звонок, посмотреть поступившее уведомление, контролировать воспроизведение музыки нужно дважды прикоснуться кончиком указательного пальца к подушечке большого. Это особенно удобно, если руки заняты и нет возможности касаться непосредственно экрана часов. Устройство позволяет обратиться к голосовому помощнику Siri — коммуникация переработана и улучшена по сравнению с предыдущими версиями. Смарт-часы распознают множество спортивных режимов и позволяют отслеживать все параметры тренировки. Параллельно производится контроль состояния организма: измеряется пульс, определяется уровень кислорода в крови, считаются потраченные калории. Кроме того, устройство распознает фазы сна.]]></description>
+				<categoryId>4</categoryId>
+				<vendor>Apple</vendor>
+				<weight>0.1</weight>
+				<vendorCode>Series 9 45mm Midnight Aluminium Sport Band (S/M)</vendorCode>
+				<oldprice>75075.0</oldprice>
+				<barcode>OZN1606018920,MRKT5743036257</barcode>
+				<country_of_origin>Китай</country_of_origin>
+				<dimensions>10/10/10</dimensions>
+				<currencyId>RUR</currencyId>
+				<count>100</count>
+				<vat>VAT_5</vat>
+			</offer>
+			<offer id="6" available="true">
+				<name>iPhone 15 Pro 128 ГБ White</name>
+				<price>149688</price>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-0/6957224172.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-u/6957224310.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-c/6957224220.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-3/6957224247.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-c/6957224112.jpg</picture>
+				<description><![CDATA[Аппаратной основой Apple iPhone 15 Pro стал 3-нанометровый чипсет A17 Pro с 6-ядерным GPU и поддержкой трассировки лучей. Чип выдает высочайшую производительность в играх. Также имеется 16-ядерный Neural Engine, который обрабатывает 35 миллионов операций в секунду.
+Корпус смартфона изготовлен из титана 5-го класса (такой, например, используется в космическом ровере NASA). Титан прочнее, легче и долговечнее, чем алюминий и сталь. У iPhone 15 Pro нет физического переключателя для перехода в бесшумный режим. На его месте расположена программируемая кнопка, которая реагирует на силу нажатия. С ее помощью можно, например, включить камеру или фонарик.
+У iPhone 15 Pro 6,1-дюймовый OLED-дисплей с разрешением 2556 × 1179 пикселей, кадровой частотой 120 Гц и пиковой яркостью 2000 нит.
+Основная камера состоит из трех сенсоров. Главный на 48 Мп. Пользователь может выбрать фокусное расстояние — 24, 28 или 35 мм. Также у смартфона ширик и телевик с 3-кратным оптическим зумом на 12 Мп.
+iPhone 15 Pro получил порт USB-C с поддержкой USB 3 и скоростью передачи данных до 10 Гбит/с. Операционная система — iOS 17.]]></description>
+				<categoryId>1</categoryId>
+				<vendor>Apple</vendor>
+				<weight>0.3</weight>
+				<vendorCode>1009</vendorCode>
+				<oldprice>190575.0</oldprice>
+				<barcode>OZN1477493409</barcode>
+				<country_of_origin>Китай</country_of_origin>
+				<dimensions>10/10/10</dimensions>
+				<currencyId>RUR</currencyId>
+				<count>100</count>
+				<vat>VAT_5</vat>
+			</offer>
+			<offer id="7" available="true">
+				<name>iPhone 15 128GB Blue</name>
+				<price>107819</price>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-u/6957224130.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-l/6957224445.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-p/6957224413.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-o/6957224412.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-8/6957223964.jpg</picture>
+				<description><![CDATA[Смартфон Apple iPhone 15 128GB – красивое сочетание передовой оптики, мощного процессора, долгоиграющей батареи и запоминающегося дизайна.Стильный:- Минимальные рамки на передней панели, увеличивающие полезную площадь экрана.- Скругленные боковые грани для удобного и надежного удержания в руке.- Привычный квадратный блок камер на задней панели. Мощный:- Процессор A16 Bionic для запуска любых мобильных игр на «максималках» и выполнения повседневных задач.- Интеллектуальная система шумоподавления для четкой голосовой связи.- Долгая работа от одного заряда батареи.Яркий:- OLED-дисплей с высокой четкостью и точностью цветопередачи.- Стекло с покрытием Ceramic Shield для защиты от механических повреждений.- Пиковая яркость дисплея для комфортного использования на улице под солнечными лучами.Четкий:- Основная камера с разрешением 48 Мп и возможностью съемки видео в разрешении 4K.- Технология Smart HDR для максимально реалистичного отображения цветов и оттенков.- Сверхширокоугольная камера для захвата всех деталей.- Фронтальная камера с разрешением 12 Мп и поддержкой технологии TrueDepth.Надежный:- Энергоемкий аккумулятор для до 20 часов непрерывной работы при просмотре видео.- Быстрая зарядка и передача данных через разъем USB Type-C.- Защита от пыли и влаги по стандарту IP68.]]></description>
+				<categoryId>1</categoryId>
+				<vendor>Apple</vendor>
+				<weight>0.3</weight>
+				<vendorCode>1010</vendorCode>
+				<oldprice>138600.0</oldprice>
+				<barcode>OZN1477493115</barcode>
+				<country_of_origin>Китай</country_of_origin>
+				<dimensions>10/10/10</dimensions>
+				<currencyId>RUR</currencyId>
+				<count>100</count>
+				<vat>VAT_5</vat>
+			</offer>
+			<offer id="8" available="true">
+				<name>iPhone 15 Pro 128 ГБ Beige</name>
+				<price>157600</price>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-k/6957224300.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-2/6957224354.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-u/6957224418.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-0/6957224388.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-c/6957224112.jpg</picture>
+				<description><![CDATA[Аппаратной основой Apple iPhone 15 Pro стал 3-нанометровый чипсет A17 Pro с 6-ядерным GPU и поддержкой трассировки лучей. Чип выдает высочайшую производительность в играх. Также имеется 16-ядерный Neural Engine, который обрабатывает 35 миллионов операций в секунду.
+Корпус смартфона изготовлен из титана 5-го класса (такой, например, используется в космическом ровере NASA). Титан прочнее, легче и долговечнее, чем алюминий и сталь. У iPhone 15 Pro нет физического переключателя для перехода в бесшумный режим. На его месте расположена программируемая кнопка, которая реагирует на силу нажатия. С ее помощью можно, например, включить камеру или фонарик.
+У iPhone 15 Pro 6,1-дюймовый OLED-дисплей с разрешением 2556 × 1179 пикселей, кадровой частотой 120 Гц и пиковой яркостью 2000 нит.
+Основная камера состоит из трех сенсоров. Главный на 48 Мп. Пользователь может выбрать фокусное расстояние — 24, 28 или 35 мм. Также у смартфона ширик и телевик с 3-кратным оптическим зумом на 12 Мп.
+iPhone 15 Pro получил порт USB-C с поддержкой USB 3 и скоростью передачи данных до 10 Гбит/с. Операционная система — iOS 17.]]></description>
+				<categoryId>1</categoryId>
+				<vendor>Apple</vendor>
+				<weight>0.3</weight>
+				<vendorCode>1011</vendorCode>
+				<oldprice>190575.0</oldprice>
+				<barcode>OZN1477493280</barcode>
+				<country_of_origin>Китай</country_of_origin>
+				<dimensions>10/10/10</dimensions>
+				<currencyId>RUR</currencyId>
+				<count>100</count>
+				<vat>VAT_5</vat>
+			</offer>
+			<offer id="61" available="true">
+				<name>Игровая консоль Blue-Ray 825Gb White CFI-1200A</name>
+				<price>100365</price>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-0/6837907680.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-h/6916187237.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-u/6938127282.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-a/6938127226.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-9/6938127333.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-j/6938585371.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-p/6916187245.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-2/6916187258.jpg</picture>
+				<description><![CDATA[PlayStation 5 - игровая консоль нового поколения, использует кастомный процессор AMD на архитектуре Zen 2, работающий с динамической частотой до 3,5 ГГц. Графический чип также создан в сотрудничестве с AMD на архитектуре RDNA 2 и его максимальная частота 2,23 ГГц.<br/><br/>Тактильная отдача - Почувствуйте физическую отдачу в ответ на ваши действия в игре благодаря парным приводам, заместившим собой вибромоторчики. В ваших руках динамическая вибрация контроллера позволит симулировать широкий спектр ощущений — от окружения в игре до отдачи различных видов оружия. Адаптивные триггеры - Испытайте реалистичные ощущения от взаимодействия с предметами и окружением в игре и благодаря разной степени усилия и сопротивления триггеров. Вы сможете реально почувствовать натяжение тетивы или удар по тормозам и полностью окунуться в действие игры. Встроенный микрофон и разъем гарнитуры - Общайтесь с друзьями в чате благодаря встроенному микрофону либо подключив гарнитуру через разъем 3,5 мм. Легко отключайте микрофон с помощью специальной кнопки выключения звука. Датчик перемещения - Встроенный акселерометр и гироскоп обеспечивают интуитивно понятное управление движениями для поддерживаемых игр.<br/><br/>Погружение в игровые миры стало еще глубже благодаря технологии трассировки лучей, которая создает максимально реалистичные тени и отражения в поддерживающих ее играх для PS5. Избранные игры PS5 на экранах телевизоров с поддержкой HDR выглядят еще ярче и реалистичнее.<br/><br/>Новая PS5 компактном корпусе и SSD на 1TB. Вертикальная подставка продается отдельно. Для подключения питания требуется переходник с японской вилки ]]></description>
+				<categoryId>3</categoryId>
+				<vendor>PlayStation</vendor>
+				<weight>3.5</weight>
+				<vendorCode>PS5</vendorCode>
+				<oldprice>115500.0</oldprice>
+				<barcode>OZN1444925905</barcode>
+				<country_of_origin>Китай</country_of_origin>
+				<dimensions>37/18/31.5</dimensions>
+				<currencyId>RUR</currencyId>
+				<count>100</count>
+				<vat>VAT_5</vat>
+			</offer>
+			<offer id="10" available="true">
+				<name>iPhone 15 Pro 256 ГБ Black</name>
+				<price>172211</price>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-y/6957224314.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-o/6957224376.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-x/6957224421.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-e/6957224330.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-c/6957224112.jpg</picture>
+				<description><![CDATA[Аппаратной основой Apple iPhone 15 Pro стал 3-нанометровый чипсет A17 Pro с 6-ядерным GPU и поддержкой трассировки лучей. Чип выдает высочайшую производительность в играх. Также имеется 16-ядерный Neural Engine, который обрабатывает 35 миллионов операций в секунду.
+Корпус смартфона изготовлен из титана 5-го класса (такой, например, используется в космическом ровере NASA). Титан прочнее, легче и долговечнее, чем алюминий и сталь. У iPhone 15 Pro нет физического переключателя для перехода в бесшумный режим. На его месте расположена программируемая кнопка, которая реагирует на силу нажатия. С ее помощью можно, например, включить камеру или фонарик.
+У iPhone 15 Pro 6,1-дюймовый OLED-дисплей с разрешением 2556 × 1179 пикселей, кадровой частотой 120 Гц и пиковой яркостью 2000 нит.
+Основная камера состоит из трех сенсоров. Главный на 48 Мп. Пользователь может выбрать фокусное расстояние — 24, 28 или 35 мм. Также у смартфона ширик и телевик с 3-кратным оптическим зумом на 12 Мп.
+iPhone 15 Pro получил порт USB-C с поддержкой USB 3 и скоростью передачи данных до 10 Гбит/с. Операционная система — iOS 17.]]></description>
+				<categoryId>1</categoryId>
+				<vendor>Apple</vendor>
+				<weight>0.3</weight>
+				<vendorCode>1013</vendorCode>
+				<oldprice>225225.0</oldprice>
+				<barcode>OZN1477493502</barcode>
+				<country_of_origin>Китай</country_of_origin>
+				<dimensions>10/10/10</dimensions>
+				<currencyId>RUR</currencyId>
+				<count>100</count>
+				<vat>VAT_5</vat>
+			</offer>
+			<offer id="71" available="true">
+				<name>Видеокарта NVIDIA GeForce RTX 4090 Windforce V2 24G</name>
+				<price>437225</price>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-i/7025693094.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-w/7025693108.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-u/7025693106.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-h/7025693093.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-w/7025693036.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-y/7025693038.jpg</picture>
+				<picture>https://cdn1.ozone.ru/s3/multimedia-1-t/7025693069.jpg</picture>
+				<description><![CDATA[Видеокарта GIGABYTE GeForce RTX 4090 WINDFORCE V2 [GV-N4090WF3V2-24GD] на основе архитектуры NVIDIA Ada Lovelace обеспечивает высокую графическую производительность для работы с программами и запуска игр на ПК. Процессор функционирует с частотой 2230 МГц, которая способна повышаться до значения 2520 МГц в режиме разгона. Видеокарта оснащена 24 ГБ памяти стандарта GDDR6X с пропускной способностью 1008 Гбайт/сек, что обеспечивает быстродействие обработки графических данных. Система охлаждения WINDFORCE с тремя вентиляторами стабильно отводит тепло от видеокарты в режиме нагрузки. Лопасти с технологией альтернативного вращения формируют интенсивный воздушный поток при низком уровне шума. Задняя сторона усилена металлической пластиной для повышения прочности всей конструкции. Подключение GIGABYTE GeForce RTX 4090 WINDFORCE V2 [GV-N4090WF3V2-24GD] к источникам изображения с разрешением до 8K может осуществляться с помощью 3 разъемов DisplayPort и 1 разъема HDMI.]]></description>
+				<categoryId>2</categoryId>
+				<vendor>Gigabyte</vendor>
+				<weight>3.5</weight>
+				<vendorCode>GIGABYTE NVIDIA GeForce RTX 4090 Windforce V2</vendorCode>
+				<barcode>OZN1571897355</barcode>
+				<country_of_origin>Китай</country_of_origin>
+				<dimensions>35/15/11</dimensions>
+				<currencyId>RUR</currencyId>
+				<count>100</count>
+				<vat>VAT_5</vat>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
